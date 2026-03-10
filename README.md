@@ -1,4 +1,6 @@
-## This is a TEST PROJECT for learning pandas
+# Pandas Learning Project
+
+This project offers hands-on examples and tutorials to help you learn Pandas, the essential Python library for data manipulation and analysis.
 
 ## 📦 What Is Pandas?
 
